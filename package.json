@@ -1,0 +1,31 @@
+{
+  "name": "ionic2-stars-valoration",
+  "version": "1.0.0",
+  "description": "A graphic star-list based evaluator.",
+  "main": "starsValoration.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjcarrancia/ionic2-stars-valoration.git"
+  },
+  "keywords": [
+    "ionic2",
+    "stars",
+    "valoration",
+    "evaluation",
+    "angular2",
+    "ng2",
+    "ionic",
+    "reputation",
+    "stars-evaluator",
+    "stars-evaluation"
+  ],
+  "author": "jjcarrancia <jjcn1992@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjcarrancia/ionic2-stars-valoration/issues"
+  },
+  "homepage": "https://github.com/jjcarrancia/ionic2-stars-valoration#readme"
+}
