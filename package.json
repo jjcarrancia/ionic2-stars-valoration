@@ -1,6 +1,6 @@
 {
   "name": "ionic2-stars-valoration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A graphic star-list based evaluator.",
   "main": "starsValoration.ts",
   "scripts": {
